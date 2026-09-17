@@ -1,0 +1,2 @@
+Sept 17, 2026 9:58:28 AM Question09_InvalidAgeLogging.AgeValidator checkUserAge
+SEVERE: Validation Error: User is under 18. Age provided: 17
