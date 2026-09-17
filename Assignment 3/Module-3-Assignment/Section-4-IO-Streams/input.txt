@@ -1,0 +1,2 @@
+Hello! This is a test file for reading operations.
+It will be used by the ByteStreamRead program to demonstrate reading.
